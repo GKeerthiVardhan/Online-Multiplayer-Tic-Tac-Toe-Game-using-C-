@@ -315,35 +315,4 @@ For testing on the same network:
 6. Player 2 enters the room code.
 7. Start playing.
 
-For players on completely different networks, the C++ server needs to be hosted on a publicly accessible server.
-
-## Future Improvements
-
-Some things that can be added later:
-
-- Player accounts
-- Leaderboards
-- Match history
-- Player profiles
-- Chat
-- Sound effects
-- Spectator mode
-- Reconnection after disconnecting
-- Different themes
-- Online matchmaking
-
-## Project Goal
-
 The main purpose of this project is to learn how a **C++ server and a web frontend can work together to create a real-time multiplayer game**.
-
-The project also demonstrates:
-
-- C++ OOP
-- Client-server architecture
-- WebSockets
-- Networking
-- Game logic
-- Real-time communication
-- Input validation
-- Room management
-- Multiplayer synchronization
