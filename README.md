@@ -1,5 +1,5 @@
 # Online Multiplayer Tic-Tac-Toe Game using C++.
-Project by 251120 and 251144 from IIIT Tiruchirappalli
+
 This repository consists of a game of Tic-Tac-Toe which is used to play with other users through server which is created by C++.
 
 Steps required by the user to play the game with others are as follows:
